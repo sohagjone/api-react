@@ -1,5 +1,5 @@
 # React Fitness Application
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+![React Fitness Application](http://mamunport.com/)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Launch your development career with project-based coaching - https://nextrotech.com/
