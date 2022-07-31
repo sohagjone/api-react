@@ -1,5 +1,5 @@
-# React Image Finder
+# React Fitness Application
 
-![React Image Finder API Application](https://pixabay.com/get/g46bf709b48f11bc43fd2fe2035db2184a6bb404897ea8478069b1cc94bbb968278662bdf20b5cb7533d16a51b2693c97796e51a9844cb918fb45570df9d0abe0_1280.jpg)
+![React Fitness Application](http://fit.nextrotech.com/static/media/banner.af29eade5f2a284803d6.png)
 
 ## Launch your development career with project-based coaching - https://mamunport.com/
